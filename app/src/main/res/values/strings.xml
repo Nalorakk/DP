@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Помощник повара</string>
+    <string name="title_activity_time">TimeActivity</string>
+
+    <string-array name="libra">
+        <item>Арахис очищеный</item>
+        <item>Варенье</item>
+        <item>Вода</item>
+        <item>Изюм</item>
+        <item>Клубника</item>
+        <item>Крупа Гуркулес</item>
+        <item>Крупа гречневая</item>
+        <item>Крупа манная</item>
+        <item>Крупа перловая</item>
+        <item>Крупа ячневая</item>
+    </string-array>
+
+    <string-array name="librastakan">
+        <item>140</item>
+        <item>270</item>
+        <item>200</item>
+        <item>155</item>
+        <item>120</item>
+        <item>50</item>
+        <item>165</item>
+        <item>160</item>
+        <item>180</item>
+        <item>145</item>
+    </string-array>
+
+    <string-array name="librastlog">
+        <item>25</item>
+        <item>50</item>
+        <item>18</item>
+        <item>25</item>
+        <item>25</item>
+        <item>12</item>
+        <item>25</item>
+        <item>25</item>
+        <item>25</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="librachlog">
+        <item>8</item>
+        <item>17</item>
+        <item>5</item>
+        <item>7</item>
+        <item>5</item>
+        <item>3</item>
+        <item>7</item>
+        <item>8</item>
+        <item>8</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="products">
+        <item>Фрукты</item>
+        <item>Овощи</item>
+        <item>Молочная продукция</item>
+        <item>Крупы</item>
+        <item>Масла</item>
+        <item>Ягоды</item>
+    </string-array>
+    <string-array name="fructs">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="one">
+        <item>11</item>
+        <item>22</item>
+        <item>33</item>
+        <item>44</item>
+        <item>55</item>
+        <item>66</item>
+    </string-array>
+</resources>
